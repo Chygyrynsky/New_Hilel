@@ -2,7 +2,7 @@
 window.onload = function(){
    
 document.getElementById("text").onfocus = function  ()  { 
-    let div = document.createElement('div');
+    let div = document.crealement('div');
     document.body.append(div);
 }
 
