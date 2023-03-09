@@ -9,7 +9,6 @@ document.getElementById("text").onfocus = function  ()  {
 document.getElementById("text").onblur = function ()  { 
     const square = document.querySelector("div");
     square.remove();
-
 }
 
 }
